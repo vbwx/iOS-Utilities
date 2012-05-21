@@ -4,8 +4,6 @@ If you're like us, you don't like redundant code. We wrote these helpers and
 additions mostly to clean up our source code; hopefully, you can benefit from
 these efforts as well.
 
-Visit us at [quantapps.com](http://www.quantapps.com "QuantApps").
-
 Projects
 --------
 ### QAUtilities ###
