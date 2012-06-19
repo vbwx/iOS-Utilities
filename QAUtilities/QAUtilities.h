@@ -35,6 +35,7 @@
 #define LEN(STR) [STR length]
 #define L(COLLECTION) [COLLECTION count]
 #define DEL(OBJ) [OBJ release]
+#define CP(TARGET, SRC) TARGET = [SRC copy]
 #define RGB(R, G, B) [UIColor colorWithRed:(R)/255.0 green:(G)/255.0 blue:(B)/255.0 alpha:1]
 #define RGBA(R, G, B, A) [UIColor colorWithRed:(R)/255.0 green:(G)/255.0 blue:(B)/255.0 alpha:(A)]
 #define CLEAR [UIColor clearColor]
